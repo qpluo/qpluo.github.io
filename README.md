@@ -1,4 +1,4 @@
-## **Welcome to Qiongpeng Luo's website**
+## **Welcome to Qiongpeng Luo's homepage**
 
 ![Image]<img src="longmao.JPG"/>
 
