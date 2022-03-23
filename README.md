@@ -40,8 +40,8 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 
 ## ** Selected Research Grants (as PI)**
-1. 2020-present, _Hanyu Yuyi Yanjiu yu Mianxiang Xinshidai de Hanyu Yufa Lilun Chuangxin_ [The semantics of Chinese and theoretical innovations towards a new era], **"Double First-class" Project for Research in Humanities, Nanjing University**.
-2. 2016-2021, _Chengdu Yuyixue yu Hanyu Jichaxing Xianxiang Yanjiu_ [Degrees Semantics and gradability in Chinese], **The National Social Science Fund of China** (grant #: 16BYY006) (Evluation: Excellence)
+1. 2020-present, _Hanyu Yuyi Yanjiu yu Mianxiang Xinshidai de Hanyu Yufa Lilun Chuangxin_ [The semantics of Chinese and theoretical innovations of the grammar of modern Chinese towards a new era], **"Double First-class" Project for Research in Humanities, Nanjing University**.
+2. 2016-2021, _Chengdu Yuyixue yu Hanyu Jichaxing Xianxiang Yanjiu_ [Degrees Semantics and gradability in Chinese], **The National Social Science Fund of China (NSSFC)** (grant #: 16BYY006) (Evluation: Excellence)
 3. 2012-2017, _Hanyu Guanggan Tiaojianshi de Yuyi jiqi Leixingxue Qifa_ [The semantics of _wh_-conditionals in Mandarin Chinese and its typological implications], **Humanities and Social Sciences Research Grant of the Ministry of Education, China** (grant #: 12YJC740074) 
 4. 2012-2016, **Scientific Research Foundation for Returned Overseas Chinese Scholars of the Ministry of Education, China**
 
