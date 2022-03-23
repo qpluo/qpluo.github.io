@@ -6,7 +6,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 ## **Research Interests**
 
-**Broad**: formal semantics and semantics-pragmatics interface;
+**Broad**: Formal semantics and semantics-pragmatics interface;
 **Narrow**: (1) Degree semantics; (2) Measurement constructions; (3) Expressive meanings; (4) Kind reference; (5) Event structure.
 
 
