@@ -24,6 +24,12 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 (to be supplied)
 
 
+## **Professonal & Academic Services**
+1. 2017-2021, Director of the Program of Linguistics, School of Liberal Arts, Nanjing University
+2. 2018-present, Program Committee member of _Sinn und Bedeutung_ (a leading conference in formal semantics in Europe)
+3. Reviewers for the journals such as _Natural Language and Linguistic Theory,linguistics, Journal of East Asian Linguistics, Lingua, Language and Linguistics, etc._
+
+
 ## **Courses & Graduate student supervision**
 
 I teach courses at both the undergraduate and graduate levels. The courses that I have been teaching include _An Introduction to Linguistics, Semantics, The syntax of Chinese, Topics in Chinese Semantics, etc._
