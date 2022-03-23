@@ -15,7 +15,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 ### **Monographs and edited volumes**
 1. _Chengdu Yuyixue yu Hanyu Yufa Yanjiu_ [Degree Semantics and the Grammar of Modern Chinese]. Nanjing: Nanjing University Press, 2022. [In Chinese]
 2. _Xiandai Hanyu zhong de Fenpei Lianghua_ [Studies on Distributive Quantification in Modern Chinese]. Nanjing: Nanjing University Press, 2021. [In Chinese]
-3. _Yuyanxue_ [Linguistics](a textbook for undergrdate students). Nanjing: Nanjing University Press, 2019. (Co-edited with Xinjia Peng) [In Chinese]
+3. _Yuyanxue_ [A Coursebook in Linguistics]. Nanjing: Nanjing University Press, 2019. (Co-edited with Xinjia Peng) [In Chinese]
 
 ### **Selective publcations in refereed journals**
 (to be supplied)
