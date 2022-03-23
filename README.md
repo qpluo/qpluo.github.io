@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## **Welcome to Qiongpeng Luo's website**
 
-You can use the [editor on GitHub](https://github.com/qpluo/qpluo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image]<img src="longmao.JPG"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in Chinese characters: 罗琼鹏 (simplified) or 羅瓊鵬 (traditional)). I am a linguist specializing in semantics and semantics-syntax interface with special reference to Mandarin Chinese and other languages in China and East Asia. Currently I am an associate professor of linguistics at the School of Liberal Arts, Nanjing University, China.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **Research Interests**
 
-```markdown
-Syntax highlighted code block
+**Broad**: formal semantics and semantics-pragmatics interface;
+**Narrow**: (1) Degree semantics; (2) Measurement constructions; (3) Expressive meanings; (4) Kind reference; (5) Event structure.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## **Selective Publications**
 
-1. Numbered
-2. List
+### **Monographs and edited volumes**
+(to be supplied)
+### **Selective publcations in refereed journals**
+(to be supplied)
+### **Selective presentations in refereed conferences**
+(to be supplied)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## **Courses & Graduate student supervision**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+I teach courses at both the undergraduate and graduate levels. The courses that I have been teaching include _An Introduction to Linguistics, Semantics, The syntax of Chinese, Topics in Chinese Semantics, etc._
+I am a doctoral student supervisor in Chinese linguistics.
 
-### Jekyll Themes
+## **Contact Me**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qpluo/qpluo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Program of Linguistics, School of Liberal Arts, Nanjing University (Xianlin Campus), Nanjing 210023, China
 
-### Support or Contact
+E-mail: qpluo@nju.edu.cn
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
