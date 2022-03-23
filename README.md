@@ -28,7 +28,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 I teach courses at both the undergraduate and graduate levels. The courses that I have been teaching include _An Introduction to Linguistics, Semantics, The syntax of Chinese, Topics in Chinese Semantics, etc._
 
-I am a doctoral student supervisor in Chinese linguistics. Prospective students interested in Chinese linguistics (towards an MPhil or PhD degree) are encouraged to contact me via email.
+I have the qualification to supervise doctoral students in linguistics. Prospective students interested in Chinese linguistics (towards an MPhil or PhD degree) are encouraged to send me emails for further details.
 
 
 
