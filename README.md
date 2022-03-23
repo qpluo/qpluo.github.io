@@ -16,6 +16,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 1. _Chengdu Yuyixue yu Hanyu Yufa Yanjiu_ [Degree Semantics and the Grammar of Modern Chinese]. Nanjing: Nanjing University Press, 2022. [In Chinese]
 2. _Xiandai Hanyu zhong de Fenpei Lianghua_ [Studies on Distributive Quantification in Modern Chinese]. Nanjing: Nanjing University Press, 2021. [In Chinese]
 3. _Yuyanxue_ [A Coursebook in Linguistics]. Nanjing: Nanjing University Press, 2019. (Co-edited with Xinjia Peng) [In Chinese]
+4. The grammar of measurement in Chinese, special issue of _Taiwan Journal of Linguistics_, 2014. (Co-edited with Miao-Ling Hsieh)
 
 ### **Selected publcations in refereed journals**
 (to be supplied)
@@ -27,7 +28,9 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 ## **Professonal & Academic Services**
 1. 2017-2021, Director of the Program of Linguistics, School of Liberal Arts, Nanjing University
 2. 2018-present, Program Committee member of _Sinn und Bedeutung_ (a leading conference in formal semantics in Europe)
-3. Reviewers for the journals such as _Natural Language and Linguistic Theory,linguistics, Journal of East Asian Linguistics, Lingua, Language and Linguistics, etc._
+3. 2010-present, Reviewer for the journals such as _Natural Language and Linguistic Theory,linguistics, Journal of East Asian Linguistics, Lingua, Language and Linguistics, etc._
+4. 2012-present, Founder of the conference _Syntax and Semantics in China (SSiC)_
+5. 2019, Convener of the Conference _Degrees and Grammar: An East Asian Perspective (DeG 2019)_, March 16-18, 2019, Nanjing University. (Co-organized with Zhiguo Xie and Xiao Li)
 
 
 ## **Courses & Graduate student supervision**
