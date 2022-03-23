@@ -1,6 +1,6 @@
 ## **Welcome to Qiongpeng Luo's homepage**
 
-<img src="qpluo.JPG"/>
+<img src="lqp.JPG"/>
 
 Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in Chinese characters: 罗琼鹏 (simplified) or 羅瓊鵬 (traditional)). I am a linguist specializing in semantics and semantics-syntax interface with special reference to Mandarin Chinese and other languages in China and East Asia. Currently I am an associate professor of linguistics at the School of Liberal Arts, Nanjing University, China.
 
