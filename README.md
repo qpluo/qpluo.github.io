@@ -6,8 +6,8 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 ## **Research Interests**
 
-**Broad**: Formal semantics and semantics-pragmatics interface;
-**Narrow**: (1) Degree semantics; (2) Measurement constructions; (3) Expressive meanings; (4) Kind reference; (5) Event structure.
+- **Broad**: Formal semantics and semantics-pragmatics interface;
+- **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meanings; (4) The semantics of kind; (5) Event structure and verbal semantics.
 
 
 ## **Selected Publications**
@@ -18,7 +18,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 3. _Yuyanxue_ [A Coursebook in Linguistics]. Nanjing: Nanjing University Press, 2019. (Co-edited with Xinjia Peng) [In Chinese]
 4. The grammar of measurement in Chinese, special issue of _Taiwan Journal of Linguistics_, 2014. (Co-edited with Miao-Ling Hsieh)
 
-### **Selected publcations in refereed journals**
+### **Selected publications in refereed journals**
 (to be supplied)
 
 ### **Selected presentations at refereed conferences**
