@@ -12,16 +12,16 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 ## **Selected Publications**
 
-### **Monographs and edited volumes**
+- ### **Monographs and edited volumes**
 1. _Chengdu Yuyixue yu Hanyu Yufa Yanjiu_ [Degree Semantics and the Grammar of Modern Chinese]. Nanjing: Nanjing University Press, 2022. [In Chinese]
 2. _Xiandai Hanyu zhong de Fenpei Lianghua_ [Studies on Distributive Quantification in Modern Chinese]. Nanjing: Nanjing University Press, 2021. [In Chinese]
 3. _Yuyanxue_ [A Coursebook in Linguistics]. Nanjing: Nanjing University Press, 2019. (Co-edited with Xinjia Peng) [In Chinese]
 4. The grammar of measurement in Chinese, special issue of _Taiwan Journal of Linguistics_, 2014. (Co-edited with Miao-Ling Hsieh)
 
-### **Selected publications in refereed journals**
+- ### **Selected publications in refereed journals**
 (to be supplied)
 
-### **Selected presentations at refereed conferences**
+- ### **Selected presentations at refereed conferences**
 1. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. Paper presented at **2022 Annual Meeting of Linguistic Society of America**. Jan. 5-10, 2022. Washington D. C.
 2. 2020, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. Paper presented at **Sinn und Bedeutung 25 (SuB 25)**. September 7-10, 2020. University College London and Queen Mary University of London. [Link](https://osf.io/fr36q/) 
 3. 2020, The architecture of the perfective viewpoint aspect in Mandarin. Paper presented at **the 56th Annual Meeting of Chicago Linguistic Society 56 (CLS 56)**. April 26-29, 2020. The University of Chicago. (Co-authored with Anqi Zhang, 1/2)
