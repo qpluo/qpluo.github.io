@@ -46,7 +46,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 - 2012-2016, **Scientific Research Foundation for Returned Overseas Chinese Scholars of the Ministry of Education, China**
 
 
-## **Professonal & Academic Services**
+## **Professional & Academic Services**
 - 2017-2021, Director of the Program of Linguistics, School of Liberal Arts, Nanjing University
 - 2018-present, Program Committee member of _Sinn und Bedeutung_ (a leading conference in formal semantics in Europe)
 - 2010-present, Reviewer for the journals such as _Natural Language and Linguistic Theory,linguistics, Journal of East Asian Linguistics, Lingua, Language and Linguistics, etc._
