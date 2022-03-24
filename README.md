@@ -23,7 +23,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 ### **Selected presentations at refereed conferences**
 1. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. Paper presented at **2022 Annual Meeting of Linguistic Society of America**. Jan. 5-10, 2022. Washington D. C.
-2. 2020, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. Paper presented at **Sinn und Bedeutung 25 (SuB 25)**. September 7-10, 2020. University College London and Queen Mary University of London. 
+2. 2020, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. Paper presented at **Sinn und Bedeutung 25 (SuB 25)**. September 7-10, 2020. University College London and Queen Mary University of London. [Link](https://osf.io/fr36q/) 
 3. 2020, The architecture of the perfective viewpoint aspect in Mandarin. Paper presented at **the 56th Annual Meeting of Chicago Linguistic Society 56 (CLS 56)**. April 26-29, 2020. The University of Chicago. (Co-authored with Anqi Zhang, 1/2)
 4. 2019, Reference to subkinds and the puzzle of the de/less modification in Mandarin Chinese. Poster presented at **the 12th International Workshop on Theoretical East Asian Linguistics (TEAL-12)**. July 9-10, 2019. Univesity of Macau. (Co-authored with Thomas Grano)
 5. 2018，Equatives are not all equal: A correlative analysis of scalar equatives in Mandarin Chinese. Poster presented at **the 54th Annual Meeting of Chicago Linguistic Society (CLS 54)**. April 26-28, 2018. Chicago: The University of Chicago. (Co-authored with Yuzhen Cao, 1/2)
