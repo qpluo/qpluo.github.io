@@ -40,18 +40,18 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 
 ## **Selected Research Grants** (as PI)
-1. 2020-present, _Hanyu Yuyi Yanjiu yu Mianxiang Xinshidai de Hanyu Yufa Lilun Chuangxin_ [The semantics of Chinese and theoretical innovations of the grammar of modern Chinese towards a new era], **"Double First-class" Project for Research in Humanities, Nanjing University**.
-2. 2016-2021, _Chengdu Yuyixue yu Hanyu Jichaxing Xianxiang Yanjiu_ [Degrees Semantics and gradability in Chinese], **The National Social Science Fund of China (NSSFC)** (grant #: 16BYY006) (Evluation: Excellence)
-3. 2012-2017, _Hanyu Guanggan Tiaojianshi de Yuyi jiqi Leixingxue Qifa_ [The semantics of _wh_-conditionals in Mandarin Chinese and its typological implications], **Humanities and Social Sciences Research Grant of the Ministry of Education, China** (grant #: 12YJC740074) 
-4. 2012-2016, **Scientific Research Foundation for Returned Overseas Chinese Scholars of the Ministry of Education, China**
+- 2020-present, _Hanyu Yuyi Yanjiu yu Mianxiang Xinshidai de Hanyu Yufa Lilun Chuangxin_ [The semantics of Chinese and theoretical innovations of the grammar of modern Chinese towards a new era], **"Double First-class" Project for Research in Humanities, Nanjing University**.
+- 2016-2021, _Chengdu Yuyixue yu Hanyu Jichaxing Xianxiang Yanjiu_ [Degrees Semantics and gradability in Chinese], **The National Social Science Fund of China (NSSFC)** (grant #: 16BYY006) (Evluation: Excellence)
+- 2012-2017, _Hanyu Guanggan Tiaojianshi de Yuyi jiqi Leixingxue Qifa_ [The semantics of _wh_-conditionals in Mandarin Chinese and its typological implications], **Humanities and Social Sciences Research Grant of the Ministry of Education, China** (grant #: 12YJC740074) 
+- 2012-2016, **Scientific Research Foundation for Returned Overseas Chinese Scholars of the Ministry of Education, China**
 
 
 ## **Professonal & Academic Services**
-1. 2017-2021, Director of the Program of Linguistics, School of Liberal Arts, Nanjing University
-2. 2018-present, Program Committee member of _Sinn und Bedeutung_ (a leading conference in formal semantics in Europe)
-3. 2010-present, Reviewer for the journals such as _Natural Language and Linguistic Theory,linguistics, Journal of East Asian Linguistics, Lingua, Language and Linguistics, etc._
-4. 2012-present, Founder of the conference _Syntax and Semantics in China (SSiC)_
-5. 2019, Convener of the Conference _Degrees and Grammar: An East Asian Perspective (DeG 2019)_, March 16-18, 2019, Nanjing University. (Co-organized with Zhiguo Xie and Xiao Li)
+- 2017-2021, Director of the Program of Linguistics, School of Liberal Arts, Nanjing University
+- 2018-present, Program Committee member of _Sinn und Bedeutung_ (a leading conference in formal semantics in Europe)
+- 2010-present, Reviewer for the journals such as _Natural Language and Linguistic Theory,linguistics, Journal of East Asian Linguistics, Lingua, Language and Linguistics, etc._
+- 2012-present, Founder of the conference _Syntax and Semantics in China (SSiC)_
+- 2019, Convener of the Conference _Degrees and Grammar: An East Asian Perspective (DeG 2019)_, March 16-18, 2019, Nanjing University. (Co-organized with Zhiguo Xie and Xiao Li)
 
 
 ## **Courses & Graduate student supervision**
