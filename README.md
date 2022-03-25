@@ -14,7 +14,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 ### **Monographs and edited volumes**
 1. _Chengdu Yuyixue yu Hanyu Yufa Yanjiu_ [Degree Semantics and the Grammar of Modern Chinese]. Nanjing: Nanjing University Press, 2022. [In Chinese]
-2. _Xiandai Hanyu zhong de Fenpei Lianghua_ [Studies on Distributive Quantification in Modern Chinese]. Nanjing: Nanjing University Press, 2021. [In Chinese]
+2. _Xiandai Hanyu zhong de Fenpei Lianghua_ [Studies on Distributive Quantification in Modern Chinese]. Nanjing: Nanjing University Press, 2021. [In Chinese] [Amazon link](https://www.amazon.com/s?k=%E7%BD%97%E7%90%BC%E9%B9%8F&__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&crid=NYXB07LADNV2&sprefix=%E7%BD%97%E7%90%BC%E9%B9%8F%2Caps%2C379&ref=nb_sb_noss)
 3. _Yuyanxue_ [A Coursebook in Linguistics]. Nanjing: Nanjing University Press, 2019. (Co-authored with Xinjia Peng) [In Chinese] [Dangdang Link](http://product.dangdang.com/27950372.html)
 4. The grammar of measurement in Chinese, special issue of _Taiwan Journal of Linguistics_, 2014. (Co-edited with Miao-Ling Hsieh) [Link](http://tjl.nccu.edu.tw/main/volumes/153/titles/tw)
 
