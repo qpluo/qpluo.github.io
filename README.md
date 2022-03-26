@@ -54,11 +54,18 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 - 2019, Convener of the Conference _Degrees and Grammar: An East Asian Perspective (DeG 2019)_, March 16-18, 2019, Nanjing University. (Co-organized with Zhiguo Xie and Xiao Li)
 
 
-## **Courses & Graduate student supervision**
+## **Teaching**
+- _An Introduction to Linguistics_ (undergraduate)
+- _Semantics_ (undergraduate)
+- _Advanced Semantics_ (postgraduate)
+- _The Syntax of Chinese_ (postgraduate)
+- _Topics in Chinese Semantics_ (postgraduate)
+- _Mathematical Methods in Linguistics_ (undergraduate & postgraduate)
 
-I teach courses at both the undergraduate and graduate levels. The courses that I have been teaching include _An Introduction to Linguistics, Semantics, The syntax of Chinese, Topics in Chinese Semantics, etc._
 
-I have the qualification to supervise doctoral students in linguistics. Prospective students interested in Chinese linguistics (towards an MPhil or PhD degree) are encouraged to send me emails for further details.
+## **Graduate Student Supervision** ##
+
+- I have the qualification to supervise doctoral students in linguistics. Prospective students interested in Chinese linguistics (towards an MPhil or PhD degree) are encouraged to send me emails for further details.
 
 
 
