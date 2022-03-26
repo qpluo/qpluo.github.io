@@ -48,7 +48,7 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 ## **Professional & Academic Services**
 - 2017-2021, Director of the Program of Linguistics, School of Liberal Arts, Nanjing University
-- 2018-present, Program Committee member of _Sinn und Bedeutung_ (a leading conference in formal semantics in Europe)
+- 2018-present, Program Committee member of _Sinn und Bedeutung_
 - 2010-present, Reviewer for the journals such as _Natural Language and Linguistic Theory,linguistics, Journal of East Asian Linguistics, Lingua, Language and Linguistics, etc._
 - 2012-present, Founder of the conference _Syntax and Semantics in China (SSiC)_
 - 2019, Convener of the Conference _Degrees and Grammar: An East Asian Perspective (DeG 2019)_, March 16-18, 2019, Nanjing University. (Co-organized with Zhiguo Xie and Xiao Li)
