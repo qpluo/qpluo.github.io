@@ -1,7 +1,7 @@
 
 <img src="lqp.JPG"/>
 
-Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in Chinese characters: 罗琼鹏 (simplified) or 羅瓊鵬 (traditional)). I am a linguist specializing in formal semantics and semantics-syntax interface with special reference to Mandarin Chinese and other languages in China and East Asia. I studied linguistics at Utrecht University from 2007-2008 (under the supervision of Prof. Martin Everaert and the late Tanya Reinhart) and Peking University, from which I obtained my PhD degree in 2009. I worked as a post-doc research fellow at Macquarie Center for Cognitive Science of Macquarie University from 2009-2011 (under Prof. Stephen Crain). Currently I am an associate professor of linguistics at the School of Liberal Arts, Nanjing University, China.
+Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in Chinese characters: 罗琼鹏 (simplified) or 羅瓊鵬 (traditional)). I am a linguist specializing in formal semantics and semantics-syntax interface with special reference to Mandarin Chinese and other languages in China and East Asia within a cross-linguistic perspective. I studied linguistics at Utrecht University from 2007-2008 (under the supervision of Prof. Martin Everaert and the late Tanya Reinhart) and Peking University, from which I obtained my PhD degree in 2009. I worked as a post-doc research fellow at Macquarie Center for Cognitive Science of Macquarie University from 2009-2011 (under Prof. Stephen Crain). Currently I am an associate professor of linguistics at the School of Liberal Arts, Nanjing University, China.
 
 
 ## **Research Interests**
@@ -65,7 +65,8 @@ Hi, I am Qiongpeng Luo (last/family name: Luo; first/given name: Qiongpeng；in 
 
 ## **Graduate Student Supervision** ##
 
-- I have the qualification to supervise doctoral students in linguistics. Prospective students interested in Chinese linguistics (towards an MPhil or PhD degree) are encouraged to send me emails for further details.
+- I have the qualification to supervise doctoral students in linguistics. 
+- Prospective students (towards an MPhil or PhD degree) interested in Chinese linguistics, in particular syntax and semantics-syntax interface, are encouraged to send me emails for further details.
 
 
 
