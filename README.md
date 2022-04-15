@@ -8,7 +8,7 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 ---
 ## **Research interests**
 
-- **Broad**: Formal semantics;Semantics-syntax interface; Semantics-pragmatics interface;
+- **Broad**: Formal semantics; Semantics-syntax interface; Semantics-pragmatics interface;
 - **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meaning; (4) The semantics of kind; (5) Event structure and verbal semantics.
 
 ---
