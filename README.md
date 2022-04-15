@@ -1,14 +1,15 @@
+## **A brief bio**
 
 <img src="lqp.JPG"/>
 
-## **A brief bio**
+
 Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in Chinese characters: 罗琼鹏 (simplified) or 羅瓊鵬 (traditional)). I am a linguist specializing in formal semantics and semantics-syntax interface with special reference to Mandarin Chinese and other languages in China and East Asia within a cross-linguistic perspective. I studied linguistics at Utrecht University from 2007-2008 (under the supervision of Prof. Martin Everaert and the late Tanya Reinhart) and Peking University, from which I obtained my PhD degree in 2009. I worked as a post-doc research fellow at Macquarie Center for Cognitive Science of Macquarie University from 2009-2011 (under Prof. Stephen Crain). Currently I am an associate professor of linguistics at the School of Liberal Arts, Nanjing University, China.
 
 ---
 ## **Research interests**
 
-- **Broad**: Formal semantics and semantics-pragmatics interface;
-- **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meanings; (4) The semantics of kind; (5) Event structure and verbal semantics.
+- **Broad**: Formal semantics;Semantics-syntax interface; Semantics-pragmatics interface;
+- **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meaning; (4) The semantics of kind; (5) Event structure and verbal semantics.
 
 ---
 ## **Selected publications in refereed journals**
