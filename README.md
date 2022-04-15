@@ -1,4 +1,4 @@
-## **A brief bio**
+## **About me**
 
 <img src="lqp.JPG"/>
 
