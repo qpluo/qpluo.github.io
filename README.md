@@ -1,6 +1,7 @@
 
 <img src="lqp.JPG"/>
 
+## **A brief bio**
 Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in Chinese characters: 罗琼鹏 (simplified) or 羅瓊鵬 (traditional)). I am a linguist specializing in formal semantics and semantics-syntax interface with special reference to Mandarin Chinese and other languages in China and East Asia within a cross-linguistic perspective. I studied linguistics at Utrecht University from 2007-2008 (under the supervision of Prof. Martin Everaert and the late Tanya Reinhart) and Peking University, from which I obtained my PhD degree in 2009. I worked as a post-doc research fellow at Macquarie Center for Cognitive Science of Macquarie University from 2009-2011 (under Prof. Stephen Crain). Currently I am an associate professor of linguistics at the School of Liberal Arts, Nanjing University, China.
 
 ---
@@ -10,18 +11,12 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 - **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meanings; (4) The semantics of kind; (5) Event structure and verbal semantics.
 
 ---
-## **Selected Publications**
-
-### **Monographs and edited volumes**
-1. _Chengdu Yuyixue yu Hanyu Yufa Yanjiu_ [Degree Semantics and the Grammar of Modern Chinese]. Nanjing: Nanjing University Press, 2022. [In Chinese]
-2. _Xiandai Hanyu zhong de Fenpei Lianghua_ [A Formal Semantic Study on Distributivity in Modern Chinese]. Nanjing: Nanjing University Press, 2021. [In Chinese] [Amazon link](https://www.amazon.com/s?k=%E7%BD%97%E7%90%BC%E9%B9%8F&__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&crid=NYXB07LADNV2&sprefix=%E7%BD%97%E7%90%BC%E9%B9%8F%2Caps%2C379&ref=nb_sb_noss)
-3. _Yuyanxue_ [A Coursebook in Linguistics]. Nanjing: Nanjing University Press, 2019. (Co-authored with Xinjia Peng) [In Chinese] [Dangdang Link](http://product.dangdang.com/27950372.html)
-4. The grammar of measurement in Chinese, special issue of _Taiwan Journal of Linguistics_, 2014, 12(2). (Co-edited with Miao-Ling Hsieh) [Link](http://tjl.nccu.edu.tw/main/volumes/153/titles/tw)
-
-### **Selected publications in refereed journals**
+## **Selected publications in refereed journals**
 (to be supplied)
 
-### **Selected presentations at refereed conferences**
+
+---
+## **Selected presentations at refereed conferences**
 1. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. Paper presented at **the 96th Annual Meeting of Linguistic Society of America**. Jan. 5-10, 2022. Washington D. C.
 2. 2020, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. Paper presented at **Sinn und Bedeutung 25 (SuB 25)**. September 7-10, 2020. University College London and Queen Mary University of London. [Link](https://osf.io/fr36q/) 
 3. 2020, The architecture of the perfective viewpoint aspect in Mandarin. Paper presented at **the 56th Annual Meeting of Chicago Linguistic Society 56 (CLS 56)**. April 26-29, 2020. The University of Chicago. (Co-authored with Anqi Zhang, 1/2)
@@ -39,11 +34,21 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 15. 2008，Functional quantification in distributivity and events: A view from Chinese. Paper presented at **ESSLLI 2008 Workshop "What Syntax Feeds Semantics"**. July 2008. Hamburg, Germany: Hambug University.
 
 
+---
+## **Monographs and editied volumes**
+1. _Chengdu Yuyixue yu Hanyu Yufa Yanjiu_ [Degree Semantics and the Grammar of Modern Chinese]. Nanjing: Nanjing University Press, 2022. [In Chinese]
+2. _Xiandai Hanyu zhong de Fenpei Lianghua_ [A Formal Semantic Study on Distributivity in Modern Chinese]. Nanjing: Nanjing University Press, 2021. [In Chinese] [Amazon link](https://www.amazon.com/s?k=%E7%BD%97%E7%90%BC%E9%B9%8F&__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&crid=NYXB07LADNV2&sprefix=%E7%BD%97%E7%90%BC%E9%B9%8F%2Caps%2C379&ref=nb_sb_noss)
+3. _Yuyanxue_ [A Coursebook in Linguistics]. Nanjing: Nanjing University Press, 2019. (Co-authored with Xinjia Peng) [In Chinese] [Dangdang Link](http://product.dangdang.com/27950372.html)
+4. The grammar of measurement in Chinese, special issue of _Taiwan Journal of Linguistics_, 2014, 12(2). (Co-edited with Miao-Ling Hsieh) [Link](http://tjl.nccu.edu.tw/main/volumes/153/titles/tw)
+
+
+---
 ## **Selected Research Grants** (as PI)
 - 2020-present, _Hanyu Yuyi Yanjiu yu Mianxiang Xinshidai de Hanyu Yufa Lilun Chuangxin_ [The semantics of Chinese and theoretical innovations of the grammar of modern Chinese towards a new era], **"Double First-class" Project for Research in Humanities, Nanjing University**.
 - 2016-2021, _Chengdu Yuyixue yu Hanyu Jichaxing Xianxiang Yanjiu_ [Degrees Semantics and gradability in Chinese], **The National Social Science Fund of China (NSSFC)** (grant #: 16BYY006) (Evluation: Excellence)
 - 2012-2017, _Hanyu Guanggan Tiaojianshi de Yuyi jiqi Leixingxue Qifa_ [The semantics of _wh_-conditionals in Mandarin Chinese and its typological implications], **Humanities and Social Sciences Research Grant of the Ministry of Education, China** (grant #: 12YJC740074) 
 - 2012-2016, **Scientific Research Foundation for Returned Overseas Chinese Scholars of the Ministry of Education, China**
+
 
 ---
 ## **Professional & Academic Services**
