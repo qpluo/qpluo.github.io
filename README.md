@@ -3,13 +3,13 @@
 
 Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in Chinese characters: 罗琼鹏 (simplified) or 羅瓊鵬 (traditional)). I am a linguist specializing in formal semantics and semantics-syntax interface with special reference to Mandarin Chinese and other languages in China and East Asia within a cross-linguistic perspective. I studied linguistics at Utrecht University from 2007-2008 (under the supervision of Prof. Martin Everaert and the late Tanya Reinhart) and Peking University, from which I obtained my PhD degree in 2009. I worked as a post-doc research fellow at Macquarie Center for Cognitive Science of Macquarie University from 2009-2011 (under Prof. Stephen Crain). Currently I am an associate professor of linguistics at the School of Liberal Arts, Nanjing University, China.
 
-
+---
 ## **Research Interests**
 
 - **Broad**: Formal semantics and semantics-pragmatics interface;
 - **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meanings; (4) The semantics of kind; (5) Event structure and verbal semantics.
 
-
+---
 ## **Selected Publications**
 
 ### **Monographs and edited volumes**
@@ -45,7 +45,7 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 - 2012-2017, _Hanyu Guanggan Tiaojianshi de Yuyi jiqi Leixingxue Qifa_ [The semantics of _wh_-conditionals in Mandarin Chinese and its typological implications], **Humanities and Social Sciences Research Grant of the Ministry of Education, China** (grant #: 12YJC740074) 
 - 2012-2016, **Scientific Research Foundation for Returned Overseas Chinese Scholars of the Ministry of Education, China**
 
-
+---
 ## **Professional & Academic Services**
 - 2017-2021, Director of the Program of Linguistics, School of Liberal Arts, Nanjing University
 - 2018-present, Program Committee member of _Sinn und Bedeutung_
@@ -54,6 +54,7 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 - 2019, Convener of the Conference _Degrees and Grammar: An East Asian Perspective (DeG 2019)_, March 16-18, 2019, Nanjing University. (Co-organized with Zhiguo Xie and Xiao Li)
 
 
+---
 ## **Teaching**
 - _An Introduction to Linguistics_ (undergraduate)
 - _Semantics_ (undergraduate)
@@ -63,13 +64,14 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 - _Mathematical Methods in Linguistics_ (undergraduate & postgraduate)
 
 
+---
 ## **Graduate Student Supervision** ##
 
 - I have the qualification to supervise doctoral students in linguistics. 
 - Prospective students (towards an MPhil or PhD degree) interested in Chinese linguistics, in particular syntax and semantics-syntax interface, are encouraged to send me emails for further details.
 
 
-
+---
 ## **Contact Me**
 
 Program of Linguistics, School of Liberal Arts, Nanjing University (Xianlin Campus), Nanjing 210023, China
