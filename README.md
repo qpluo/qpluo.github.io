@@ -81,7 +81,7 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 ## **Language skills**
 
 
-- Chinese (native); English (fluent); French (basic writing and reading); German (basic reading)
+- Chinese (native); English (fluent); French (basic); German (basic reading)
 
 
 ---
