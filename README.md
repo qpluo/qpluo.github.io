@@ -78,6 +78,13 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 
 
 ---
+## **Language skills**
+
+
+- Chinese (native); English (fluent); French (basic writing and reading); German (basic reading)
+
+
+---
 ## **Contact me**
 
 Program of Linguistics, School of Liberal Arts, Nanjing University (Xianlin Campus), Nanjing 210023, China
