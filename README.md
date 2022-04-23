@@ -74,7 +74,7 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 ## **Graduate student supervision** ##
 
 - I have the qualification to supervise doctoral students in linguistics. 
-- Prospective students (towards an MPhil or PhD degree) interested in Chinese linguistics, in particular syntax and semantics-syntax interface, are encouraged to send me emails for further details.
+- Prospective students (towards an MPhil or PhD degree) interested in Chinese linguistics, in particular in semantics, syntax and semantics-syntax-pragmatics interface, are encouraged to send me emails for further details.
 
 
 ---
