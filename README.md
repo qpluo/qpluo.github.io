@@ -1,4 +1,4 @@
-## **About me**
+## **A Chinese semanticist: Bio**
 
 <img src="lqp.JPG"/>
 
