@@ -33,7 +33,8 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 17. 2008, Functional quantification in distributivity and events: A view from Chinese. In Maribel Romero (ed.), **Proceedings of ESSLLI 2008 Workshop ‘What Syntax Feeds Semantics’**, 48-59. Germany: Konstanz University.
 
 
-## **Domestic publications** in Chinese (CSSCI = China Social Sciences Citation Index)
+## **Domestic publications in Chinese**
+(CSSCI = China Social Sciences Citation Index)
 1. 2022, Liangji xiushiyu de yuyong weidu 量级修饰语的语用维度 [The universal functional spine and sentential completeness effect in Chinese]. **Shijie Hanyu Jiaoxue 世界汉语教学** [Chinese Teaching in the World] (4). (CSSCI)
 2. 2022, Pubian gongneng jizhu yu hanyu juzi de zizuxing 普遍功能脊柱与汉语句子的自足性 [The Universal Functional Spine and Sentential Completeness Effects in Chinese]. **Waiyu Jiaoxue yu Yanjiu 外语教学与研究** [Foreign Language Teaching and Research] 5. (CSSCI)
 3. 2022, Zhuangming xiushi jiegou de luoji wenti 专名修饰结构的逻辑问题 [On the logical problem of modified proper names]. **Hunan Keji Daxue Xuebao 湖南科技大学学报（社会科学版）** [Journal of Hunan University of Science and Technology] 2: 35-41. (CSSCI)
