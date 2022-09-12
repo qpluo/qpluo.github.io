@@ -13,8 +13,18 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 - **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meaning; (4) The semantics of kind; (5) Event structure and verbal semantics.
 
 ---
-## **Selected publications in refereed journals**
-(to be supplied)
+## **Selected research outputs in refereed journals**
+1. A kind-based account of adjectival modification in Mandarin Chinese. **Linguistics and Philosophy**. (R&R)
+2. The universal functional spine and sentential completeness effect in Chinese. **Waiyu Jiaoxue yu Yanjiu** 外语教学与研究 [Foreign Language Teaching and Research] (5). [In Chinese]
+3. 2022, Degrees and grammar: An East Asian perspective. **Language and Linguistics** 24(1). [Link](https://benjamins.com/catalog/lali.00124.luo)
+4. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. **Journal of East Asian Linguistics** 31(2): 221-263. [Link](https://link.springer.com/article/10.1007/s10831-022-09239-1)
+5. 2022, The semantics of scalar equatives in Mandarin Chinese. **Language and Linguistics** 24(1). [Link](https://benjamins.com/catalog/lali.00127.cao)
+6. 2019, Degree intensifiers as expressives in Mandarin Chinese. **Language and Linguistics** 20(2):256-281. [Link](https://benjamins.com/catalog/lali.00033.xie)
+7. 2019, The split of measurement standards and the derivation of measurement constructions: A cross-linguistic perspective. **Waiyu Jiaoxue yu Yanjiu** 外语教学与研究 [Foreign Language Teaching and Research] (1). [In Chinese] 
+8. 2017, Pre-classifier adjectival modification in Mandarin Chinese: a measurement-based analysis. **Journal of East Asian Linguistics** 26(1): 1-36. [Link](https://link.springer.com/article/10.1007/s10831-016-9149-2)
+9. 2011, _Mei_ and _dou_ in Chinese: a tale of two quantifiers. **Taiwan Journal of Linguistics** 9(2):111-158. [Link](http://tjl.nccu.edu.tw/main/uploads/9.2-3__.pdf)
+10. 2011, Do Chinese wh-conditionals have relatives in other languages?. **Language and Linguistics** 12(4):753-798. [Link](https://www.ling.sinica.edu.tw/item/zh-tw?act=journal&code=directory&volume=12&period=4)
+11. 2005，Syntactic properties of Mandarin _SHI_. **Waiyu Jiaoxue yu Yanjiu** 外语教学与研究 [Foreign Language Teaching and Research] (3). [In Chinese]
 
 
 ---
