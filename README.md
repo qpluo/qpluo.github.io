@@ -13,7 +13,7 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 - **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meaning; (4) The semantics of kind; (5) Event structure and verbal semantics.
 
 ---
-## **Selected research outputs in refereed journals**
+## **Selected research outputs**
 1. A kind-based account of adjectival modification in Mandarin Chinese. **Linguistics and Philosophy**. (R&R)
 2. The universal functional spine and sentential completeness effect in Chinese. **Waiyu Jiaoxue yu Yanjiu** 外语教学与研究 [Foreign Language Teaching and Research] (5). [In Chinese]
 3. 2022, Degrees and grammar: An East Asian perspective. **Language and Linguistics** 24(1). [Link](https://benjamins.com/catalog/lali.00124.luo)
