@@ -56,7 +56,7 @@ Mandarin adverb hai]. **Yuyan Kexue 语言科学** [Language Sciences] (6): 592-
 18. 2016, Pipeixing yu “dou” dui shijian de lianghua 匹配性与“都”对事件的量化 [Matching Effects in Dou’s quantification over events]. **Jiefangjun Waiguoyu Xueyuan Xuebao 解放军外国语学院学报** [Journal of PLA University of Foreign Languages] 4: 58-66. (CSSCI)
 19. 2008, “lian” de qiangdiao yu fouding jixing: Putonghua he xiangyu de bijiao “连”的强调与否定极性:普通话和湘语的比较 [On the emphatic and negative polarity uses of lian ‘even’: comparison between Mandarin and Xiang dialect]. **Hanzangyu Xuebao 汉藏语学报** [Journal of Sino-Tibetan Linguistics] 2: 124-134.
 20. 2007, Maixiang yuanzexing jieshi de yuyan lilun: Zuijian fangan de zuixin jinzhan 迈向原则性解释的语言理论：最简方案最新进展 [Towards a linguistic theory with explanatory adequacy: the recent advances of Minimalist Program]. **Yuyanxue Yanjiu 语言学研究** [Linguistic Research], vol. 6, pp. 8-12.
-21. 2006, “dou” lianghua yu “liang…dou” jiegou “都”量化与“连…都”结构 [Dou-quantification and the “lian…dou” construction]. **Yuyanxue Luncong 语言学论丛** [Essays on Linguistics], vol. 34, pp. 243-265. (CSCI)
+21. 2006, “dou” lianghua yu “liang…dou” jiegou “都”量化与“连…都”结构 [Dou-quantification and the “lian…dou” construction]. **Yuyanxue Luncong 语言学论丛** [Essays on Linguistics], vol. 34, pp. 243-265. (CSSCI)
 22. 2005, Fujici de jiduan minganxing ji yunzhun tiaojian yanjiu 负极词的极端敏感性及允准条件研究 [On the polarity sensitivity and licensing conditions of negative polarity items]. **Waiyu yu Waiyu Jiaoxue 外语与外语教学** [Foreign Languages and Their Teaching] 4: 8-13. (CSSCI)
 23. 2005，Syntactic properties of Mandarin _SHI_. **Waiyu Jiaoxue yu Yanjiu 外语教学与研究** [Foreign Language Teaching and Research] 3:192-198. (CSSCI)
 
