@@ -13,18 +13,51 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 - **Narrow**: (1) Degree and measurement; (2) Semantic incorporation; (3) Expressive meaning; (4) The semantics of kind; (5) Event structure and verbal semantics.
 
 ---
-## **Selected research outputs**
+## **Selected research outputs** in English
 1. A kind-based account of adjectival modification in Mandarin Chinese. **Linguistics and Philosophy**. (R&R)
-2. The universal functional spine and sentential completeness effect in Chinese. **Waiyu Jiaoxue yu Yanjiu** 外语教学与研究 [Foreign Language Teaching and Research] (5). [In Chinese]
+2. Degree kinds, difference, and the semantics of Differential Verbal Comparatives in Mandarin Chinese. **Journal of Semantics**. (with minor revision)
 3. 2022, Degrees and grammar: An East Asian perspective. **Language and Linguistics** 24(1). [Link](https://benjamins.com/catalog/lali.00124.luo)
 4. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. **Journal of East Asian Linguistics** 31(2): 221-263. [Link](https://link.springer.com/article/10.1007/s10831-022-09239-1)
 5. 2022, The semantics of scalar equatives in Mandarin Chinese. **Language and Linguistics** 24(1). [Link](https://benjamins.com/catalog/lali.00127.cao)
-6. 2019, Degree intensifiers as expressives in Mandarin Chinese. **Language and Linguistics** 20(2):256-281. [Link](https://benjamins.com/catalog/lali.00033.xie)
-7. 2019, The split of measurement standards and the derivation of measurement constructions: A cross-linguistic perspective. **Waiyu Jiaoxue yu Yanjiu** 外语教学与研究 [Foreign Language Teaching and Research] (1). [In Chinese] 
-8. 2017, Pre-classifier adjectival modification in Mandarin Chinese: a measurement-based analysis. **Journal of East Asian Linguistics** 26(1): 1-36. [Link](https://link.springer.com/article/10.1007/s10831-016-9149-2)
-9. 2011, _Mei_ and _dou_ in Chinese: a tale of two quantifiers. **Taiwan Journal of Linguistics** 9(2):111-158. [Link](http://tjl.nccu.edu.tw/main/uploads/9.2-3__.pdf)
-10. 2011, Do Chinese wh-conditionals have relatives in other languages?. **Language and Linguistics** 12(4):753-798. [Link](https://www.ling.sinica.edu.tw/item/zh-tw?act=journal&code=directory&volume=12&period=4)
-11. 2005，Syntactic properties of Mandarin _SHI_. **Waiyu Jiaoxue yu Yanjiu** 外语教学与研究 [Foreign Language Teaching and Research] (3). [In Chinese]
+6. 2021, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. In P. G. Grosz, L. Marti, H. Pearson, Y. Sudo & S. Zobel (eds.), **Proceedings of Sinn und Bedeutung 25 (SuB 25)**, 600-617. University College London and Queen Mary University of London. [Link](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/956)
+7. 2020, The architecture of the perfective viewpoint aspect in Mandarin. **Proceedings of Chicago Linguistic Society 56** (CLS 56). The University of Chicago.
+8. 2019, Degree intensifiers as expressives in Mandarin Chinese. **Language and Linguistics** 20(2):256-281. [Link](https://benjamins.com/catalog/lali.00033.xie)
+9. 2019, Equatives are not all equal: A correlative analysis of scalar equatives in Mandarin. In Eszter Ronai, Laura Stigliano and Yenan Sun (eds.), **Proceedings of Chicago Linguistic Society 54** (CLS 54), 283-294. The University of Chicago.
+10. 2019, Degrees as nominalized properties: evidence from differential verbal comparatives in Chinese. In Uli Sauerland & Stephanie Solt (eds.), **Proceedings of Sinn und Bedeutung** 22(2): 89-106. Berlin: Leibniz-Zentrum Allgemeine Sprachwissenshaft (ZAS) (Leibniz Center for General Linguistics). [Link](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/72)
+11. 2017, Pre-classifier adjectival modification in Mandarin Chinese: a measurement-based analysis. **Journal of East Asian Linguistics** 26(1): 1-36. [Link](https://link.springer.com/article/10.1007/s10831-016-9149-2)
+12. 2011, Identity and definiteness in Chinese wh-conditionals. In Reich Ingo et at. (eds.), **Proceedings of Sinn und Bedeutung 15** (SuB 15), 165-179. Saarbrucken, Germany: Saarland University Press. [Link](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/370)
+13. 2011, _Mei_ and _dou_ in Chinese: a tale of two quantifiers. **Taiwan Journal of Linguistics** 9(2):111-158. [Link](http://tjl.nccu.edu.tw/main/uploads/9.2-3__.pdf)
+14. 2011, Do Chinese wh-conditionals have relatives in other languages?. **Language and Linguistics** 12(4):753-798. [Link](https://www.ling.sinica.edu.tw/item/zh-tw?act=journal&code=directory&volume=12&period=4)
+15. 2011, Uniqueness and co-variation in Chinese wh-conditionals. In Yukio Otsu (ed.), **The Proceedings of the 12th Tokyo Conference on Psycholinguistics** (TCP 12). Tokyo: Hituzi Publishing Company.
+16. 2010, On the typology of wh-conditionals in Chinese. In Yukio Otsu (ed.), **The Proceedings of the 11th Tokyo Conference on Psycholinguistics** (TCP 11), 97-120. Tokyo: Hituzi Publishing Company.
+17. 2008, Functional quantification in distributivity and events: A view from Chinese. In Maribel Romero (ed.), **Proceedings of ESSLLI 2008 Workshop ‘What Syntax Feeds Semantics’**, 48-59. Germany: Konstanz University.
+
+
+## **Domestic publications** in Chinese (CSSCI = China Social Sciences Citation Index)
+1. 2022, Liangji xiushiyu de yuyong weidu 量级修饰语的语用维度 [The universal functional spine and sentential completeness effect in Chinese]. **Shijie Hanyu Jiaoxue 世界汉语教学** [Chinese Teaching in the World] (4). (CSSCI)
+2. 2022, Pubian gongneng jizhu yu hanyu juzi de zizuxing 普遍功能脊柱与汉语句子的自足性 [The Universal Functional Spine and Sentential Completeness Effects in Chinese]. **Waiyu Jiaoxue yu Yanjiu 外语教学与研究** [Foreign Language Teaching and Research] 5. (CSSCI)
+3. 2022, Zhuangming xiushi jiegou de luoji wenti 专名修饰结构的逻辑问题 [On the logical problem of modified proper names]. **Hunan Keji Daxue Xuebao 湖南科技大学学报（社会科学版）** [Journal of Hunan University of Science and Technology] 2: 35-41. (CSSCI)
+4. 2021, Yinghanyu dengjixing xianxiang de yuyi yanjiu 英汉语等级性现象的语义研究[The semantics of gradability in English and Chinese]. **Jiefangjun Waiguoyu Xueyuan Xuebao 解放军外国语学院学报** [Journal of PLA University of Foreign Languages] 6. (CSSCI)
+5. 2021, Dengjixing, liangji jiegou yu “hen+NP” jiegou de yuyi yanjiu 等级性、量级结构与“很+名词”结构的语义分析 [Gradability, scale structure and the semantics of “hen+NP” structure]. **Hanyu Xuexi 汉语学习** [Chinese Language Learning] 5: 53-63. (CSSCI)
+6. 2020, Cong Liangji dao liangduan: gen “hai” youguan de jizhong yongfa deyuyi fenxi 从量级到量段——跟“还”有关的几种用法的语义分析 [A scale segment-based semantics for 
+Mandarin adverb hai]. **Yuyan Kexue 语言科学** [Language Sciences] (6): 592-609. (CSSCI)
+7. 2019, Yuyixue yu xingtai jufa bianyi: yi yinghanyu liangji dengbiju weili 语义学与形态句法变异：以英汉语量级等比句为例 [Semantics and morpho-syntactic variation: The case of scalar equatives in Mandarin and English]. **Waiguoyu 外国语** [Journal of Foreign Languages] 3: 47-59. 
+8. 2019, The split of measurement standards and the derivation of measurement constructions: A cross-linguistic perspective. **Waiyu Jiaoxue yu Yanjiu** 外语教学与研究 [Foreign Language Teaching and Research] (1). (CSSCI)
+9. 2019, Duo zai shuliang jiegou zhong de fenbu yu yuyi jieshi – jian tan celiang de jizhi “多”在数量结构中的分布与语义解释——兼谈测量的机制 [The distribution and interpretation of duo in quantity expressions and the grammar of measurement]. **Yuyan Kexue 语言科学** [Language Sciences] 1: 13-26. (CSSCI)
+10. 2018, Liangji jiegou yu hanyu xingrongci de jixing duili wenti 量级结构与汉语形容词的极性对立问题 [Scale structure and the polarity opposition of adjectives in Chinese] **Yuyan Yanjiu 语言研究** [Studies in Language and Linguistics] 2: 24-31. (CSSCI)
+11. 2018, Dengjixing, liangji jiegou yu hanyu xingzhi xingrongci fenlei 等级性、量级结构与汉语性质形容词分类 [Gradability, scale structure, and the classification of simple adjectives in Chinese]. **Hanyu Xuexi 汉语学习** [Chinese Language Learning] 1: 27-38. (CSSCI)
+12. 2017, Xiandai hanyu mingliang jiegou de liangzhong celiang yi 现代汉语名量结构的两种测量义 [Two types of measurements of the measure phrases in Chinese] **Yuyan Jiaoxue yu Yanjiu 语言教学与研究** [Language Teaching and Linguistic Studies] 6: 82-91. (CSSCI)
+13. 2017, Yiyi de duoweixing yu duoweidu yuyixue 意义的多维性与多维度语义学 [The multidimensionality of meaning and multidimensional semantics]. **Waiguoyu 外国语**[Journal of Foreign Languages] 5: 11-20.(CSSCI)
+14. 2017, Hanyu bi zi bijiaoju de jufa he yuyi wenti 汉语“比”字比较句的句法和语义问题 [The syntax and semantics of Mandarin bi comparatives]. **Xiandai Waiyu 现代外语** [Modern Foreign Languages] 3: 324-335. (CSSCI)
+15. 2017, Hanyu mingci de chengdu yu dengjixing 汉语名词的程度与等级性 [Degree and gradability in the nominal domain of Chinese]. **Yuyanxue Yanjiu 语言学研究** [Linguistic Research], vol. 21, 97-109. (CSSCI)
+16. 2016, Chengdu, liangji yu xingrongci “zhen” he “jia” de yuyi 程度，量级与形容词“真”和“假”的语义 [Degree, scale and the semantics of zhen ‘true’ and jia ‘false’]. **Yuyan Yanjiu 语言研究** [Studies in Language and Linguistics] 2: 94-100. (CSSCI)
+17. 2016, You “da” wu “xiao”de “da+NP’ jiegou 有“大”无“小”的“大+NP”结构 [Gradable nouns and the degree interpretations of “Da ‘big’ +NP” constructions]. **Hanyu Xuexi 汉语学习** [Chinese Language Learning] 3: 43-52. (CSSCI)
+18. 2016, Pipeixing yu “dou” dui shijian de lianghua 匹配性与“都”对事件的量化 [Matching Effects in Dou’s quantification over events]. **Jiefangjun Waiguoyu Xueyuan Xuebao 解放军外国语学院学报** [Journal of PLA University of Foreign Languages] 4: 58-66. (CSSCI)
+19. 2008, “lian” de qiangdiao yu fouding jixing: Putonghua he xiangyu de bijiao “连”的强调与否定极性:普通话和湘语的比较 [On the emphatic and negative polarity uses of lian ‘even’: comparison between Mandarin and Xiang dialect]. **Hanzangyu Xuebao 汉藏语学报** [Journal of Sino-Tibetan Linguistics] 2: 124-134.
+20. 2007, Maixiang yuanzexing jieshi de yuyan lilun: Zuijian fangan de zuixin jinzhan 迈向原则性解释的语言理论：最简方案最新进展 [Towards a linguistic theory with explanatory adequacy: the recent advances of Minimalist Program]. **Yuyanxue Yanjiu 语言学研究** [Linguistic Research], vol. 6, pp. 8-12.
+21. 2006, “dou” lianghua yu “liang…dou” jiegou “都”量化与“连…都”结构 [Dou-quantification and the “lian…dou” construction]. **Yuyanxue Luncong 语言学论丛** [Essays on Linguistics], vol. 34, pp. 243-265. (CSCI)
+22. 2005, Fujici de jiduan minganxing ji yunzhun tiaojian yanjiu 负极词的极端敏感性及允准条件研究 [On the polarity sensitivity and licensing conditions of negative polarity items]. **Waiyu yu Waiyu Jiaoxue 外语与外语教学** [Foreign Languages and Their Teaching] 4: 8-13. (CSSCI)
+23. 2005，Syntactic properties of Mandarin _SHI_. **Waiyu Jiaoxue yu Yanjiu 外语教学与研究** [Foreign Language Teaching and Research] 3:192-198. (CSSCI)
 
 
 ---
