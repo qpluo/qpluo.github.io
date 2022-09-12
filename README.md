@@ -16,19 +16,19 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 ## **Selected research outputs** in English
 1. A kind-based account of adjectival modification in Mandarin Chinese. **Linguistics and Philosophy**. (R&R)
 2. Degree kinds, difference, and the semantics of Differential Verbal Comparatives in Mandarin Chinese. **Journal of Semantics**. (with minor revision)
-3. 2022, Degrees and grammar: An East Asian perspective. **Language and Linguistics** 24(1). [Link](https://benjamins.com/catalog/lali.00124.luo)
-4. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. **Journal of East Asian Linguistics** 31(2): 221-263. [Link](https://link.springer.com/article/10.1007/s10831-022-09239-1)
-5. 2022, The semantics of scalar equatives in Mandarin Chinese. **Language and Linguistics** 24(1). [Link](https://benjamins.com/catalog/lali.00127.cao)
-6. 2021, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. In P. G. Grosz, L. Marti, H. Pearson, Y. Sudo & S. Zobel (eds.), **Proceedings of Sinn und Bedeutung 25 (SuB 25)**, 600-617. University College London and Queen Mary University of London. [Link](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/956)
+3. 2022, Degrees and grammar: An East Asian perspective. **Language and Linguistics** 24(1). [Download](https://benjamins.com/catalog/lali.00124.luo)
+4. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. **Journal of East Asian Linguistics** 31(2): 221-263. [Download](https://link.springer.com/article/10.1007/s10831-022-09239-1)
+5. 2022, The semantics of scalar equatives in Mandarin Chinese. **Language and Linguistics** 24(1). [Download](https://benjamins.com/catalog/lali.00127.cao)
+6. 2021, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. In P. G. Grosz, L. Marti, H. Pearson, Y. Sudo & S. Zobel (eds.), **Proceedings of Sinn und Bedeutung 25 (SuB 25)**, 600-617. University College London and Queen Mary University of London. [Download](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/956)
 7. 2020, The architecture of the perfective viewpoint aspect in Mandarin. **Proceedings of Chicago Linguistic Society 56** (CLS 56). The University of Chicago.
-8. 2019, Degree intensifiers as expressives in Mandarin Chinese. **Language and Linguistics** 20(2):256-281. [Link](https://benjamins.com/catalog/lali.00033.xie)
-9. 2019, Equatives are not all equal: A correlative analysis of scalar equatives in Mandarin. In Eszter Ronai, Laura Stigliano and Yenan Sun (eds.), **Proceedings of Chicago Linguistic Society 54** (CLS 54), 283-294. The University of Chicago.
-10. 2019, Degrees as nominalized properties: evidence from differential verbal comparatives in Chinese. In Uli Sauerland & Stephanie Solt (eds.), **Proceedings of Sinn und Bedeutung** 22(2): 89-106. Berlin: Leibniz-Zentrum Allgemeine Sprachwissenshaft (ZAS) (Leibniz Center for General Linguistics). [Link](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/72)
-11. 2017, Pre-classifier adjectival modification in Mandarin Chinese: a measurement-based analysis. **Journal of East Asian Linguistics** 26(1): 1-36. [Link](https://link.springer.com/article/10.1007/s10831-016-9149-2)
-12. 2011, Identity and definiteness in Chinese wh-conditionals. In Reich Ingo et at. (eds.), **Proceedings of Sinn und Bedeutung 15** (SuB 15), 165-179. Saarbrucken, Germany: Saarland University Press. [Link](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/370)
-13. 2011, _Mei_ and _dou_ in Chinese: a tale of two quantifiers. **Taiwan Journal of Linguistics** 9(2):111-158. [Link](http://tjl.nccu.edu.tw/main/uploads/9.2-3__.pdf)
-14. 2011, Do Chinese wh-conditionals have relatives in other languages?. **Language and Linguistics** 12(4):753-798. [Link](https://www.ling.sinica.edu.tw/item/zh-tw?act=journal&code=directory&volume=12&period=4)
-15. 2011, Uniqueness and co-variation in Chinese wh-conditionals. In Yukio Otsu (ed.), **The Proceedings of the 12th Tokyo Conference on Psycholinguistics** (TCP 12). Tokyo: Hituzi Publishing Company.
+8. 2019, Degree intensifiers as expressives in Mandarin Chinese. **Language and Linguistics** 20(2):256-281. [Download](https://benjamins.com/catalog/lali.00033.xie)
+9. 2019, Equatives are not all equal: A correlative analysis of scalar equatives in Mandarin. In Eszter Ronai, Laura Stigliano and Yenan Sun (eds.), **Proceedings of Chicago Linguistic Society 54** (CLS 54), 283-294. The University of Chicago. 
+10. 2019, Degrees as nominalized properties: evidence from differential verbal comparatives in Chinese. In Uli Sauerland & Stephanie Solt (eds.), **Proceedings of Sinn und Bedeutung** 22(2): 89-106. Berlin: Leibniz-Zentrum Allgemeine Sprachwissenshaft (ZAS) (Leibniz Center for General Linguistics). [Download](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/72)
+11. 2017, Pre-classifier adjectival modification in Mandarin Chinese: a measurement-based analysis. **Journal of East Asian Linguistics** 26(1): 1-36. [Download](https://link.springer.com/article/10.1007/s10831-016-9149-2)
+12. 2011, Identity and definiteness in Chinese wh-conditionals. In Reich Ingo et at. (eds.), **Proceedings of Sinn und Bedeutung 15** (SuB 15), 165-179. Saarbrucken, Germany: Saarland University Press. [Download](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/370)
+13. 2011, _Mei_ and _dou_ in Chinese: a tale of two quantifiers. **Taiwan Journal of Linguistics** 9(2):111-158. [Download](http://tjl.nccu.edu.tw/main/uploads/9.2-3__.pdf)
+14. 2011, Do Chinese wh-conditionals have relatives in other languages?. **Language and Linguistics** 12(4):753-798. [Download](https://www.ling.sinica.edu.tw/item/zh-tw?act=journal&code=directory&volume=12&period=4)
+15. 2011, Uniqueness and co-variation in Chinese wh-conditionals. In Yukio Otsu (ed.), **The Proceedings of the 12th Tokyo Conference on Psycholinguistics** (TCP 12). Tokyo: Hituzi Publishing Company. [Download](https://www.researchgate.net/publication/310952699_Uniqueness_and_Co-variation_in_Chinese_Wh-conditionals)
 16. 2010, On the typology of wh-conditionals in Chinese. In Yukio Otsu (ed.), **The Proceedings of the 11th Tokyo Conference on Psycholinguistics** (TCP 11), 97-120. Tokyo: Hituzi Publishing Company.
 17. 2008, Functional quantification in distributivity and events: A view from Chinese. In Maribel Romero (ed.), **Proceedings of ESSLLI 2008 Workshop ‘What Syntax Feeds Semantics’**, 48-59. Germany: Konstanz University.
 
@@ -64,7 +64,7 @@ Mandarin adverb hai]. **Yuyan Kexue 语言科学** [Language Sciences] (6): 592-
 ---
 ## **Selected presentations at refereed conferences**
 1. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. Paper presented at **the 96th Annual Meeting of Linguistic Society of America**. Jan. 5-10, 2022. Washington D. C.
-2. 2020, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. Paper presented at **Sinn und Bedeutung 25 (SuB 25)**. September 7-10, 2020. University College London and Queen Mary University of London. [Link](https://osf.io/fr36q/) 
+2. 2020, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. Paper presented at **Sinn und Bedeutung 25 (SuB 25)**. September 7-10, 2020. University College London and Queen Mary University of London.
 3. 2020, The architecture of the perfective viewpoint aspect in Mandarin. Paper presented at **the 56th Annual Meeting of Chicago Linguistic Society 56 (CLS 56)**. April 26-29, 2020. The University of Chicago. (Co-authored with Anqi Zhang, 1/2)
 4. 2019, Reference to subkinds and the puzzle of the de/less modification in Mandarin Chinese. Poster presented at **the 12th International Workshop on Theoretical East Asian Linguistics (TEAL-12)**. July 9-10, 2019. Univesity of Macau. (Co-authored with Thomas Grano)
 5. 2018，Equatives are not all equal: A correlative analysis of scalar equatives in Mandarin Chinese. Poster presented at **the 54th Annual Meeting of Chicago Linguistic Society (CLS 54)**. April 26-28, 2018. Chicago: The University of Chicago. (Co-authored with Yuzhen Cao, 1/2)
