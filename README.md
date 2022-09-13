@@ -61,7 +61,7 @@ Mandarin adverb hai]. **Yuyan Kexue 语言科学** [Language Sciences] (6): 592-
 22. 2007, Maixiang yuanzexing jieshi de yuyan lilun: Zuijian fangan de zuixin jinzhan 迈向原则性解释的语言理论：最简方案最新进展 [Towards a linguistic theory with explanatory adequacy: the recent advances of Minimalist Program]. **Yuyanxue Yanjiu 语言学研究** [Linguistic Research], vol. 6, pp. 8-12.
 23. 2006, “dou” lianghua yu “liang…dou” jiegou “都”量化与“连…都”结构 [Dou-quantification and the “lian…dou” construction]. **Yuyanxue Luncong 语言学论丛** [Essays on Linguistics], vol. 34, pp. 243-265. (CSSCI)
 24. 2005, Fujici de jiduan minganxing ji yunzhun tiaojian yanjiu 负极词的极端敏感性及允准条件研究 [On the polarity sensitivity and licensing conditions of negative polarity items]. **Waiyu yu Waiyu Jiaoxue 外语与外语教学** [Foreign Languages and Their Teaching] 4: 8-13. (CSSCI)
-25. 2005，Syntactic properties of Mandarin _SHI_. **Waiyu Jiaoxue yu Yanjiu 外语教学与研究** [Foreign Language Teaching and Research] 3:192-198. (CSSCI)
+25. 2005，Shi de jufa yuyi shuxing yanjiu “是”的句法语义属性研究 [Syntactic properties of Mandarin _SHI_]. **Waiyu Jiaoxue yu Yanjiu 外语教学与研究** [Foreign Language Teaching and Research] 3:192-198. (CSSCI)
 
 
 ---
