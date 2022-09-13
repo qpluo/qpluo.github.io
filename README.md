@@ -97,7 +97,7 @@ Mandarin adverb hai]. **Yuyan Kexue 语言科学** [Language Sciences] (6): 592-
 - 2022-2025, “Studies on Theories of Kinds,” **Jiangsu Provincial Social Sciences Fund**. (Amount: 50, 000 RMB)
 - 2020-present, _Hanyu Yuyi Yanjiu yu Mianxiang Xinshidai de Hanyu Yufa Lilun Chuangxin_ [The semantics of Chinese and theoretical innovations of the grammar of modern Chinese towards a new era], **"Double First-class" Project for Research in Humanities, Nanjing University**. (Amount: 400,000 RMB)
 - 2016-2021, _Chengdu Yuyixue yu Hanyu Jichaxing Xianxiang Yanjiu_ [Degrees Semantics and gradability in Chinese], **The National Social Science Fund of China (NSSFC)**. (Grant #: 16BYY006; Amount: 200,000 RMB) (Evluation: Excellence)
-- 2012-2017, _Hanyu Guanggan Tiaojianshi de Yuyi jiqi Leixingxue Qifa_ [The semantics of _wh_-conditionals in Mandarin Chinese and its typological implications], **Humanities and Social Sciences Research Grant of the Ministry of Education, China** (Grant #: 12YJC740074) (Amound: 70, 000 RMB)
+- 2012-2017, _Hanyu Guanggan Tiaojianshi de Yuyi jiqi Leixingxue Qifa_ [The semantics of _wh_-conditionals in Mandarin Chinese and its typological implications], **Humanities and Social Sciences Research Grant of the Ministry of Education, China** (Grant #: 12YJC740074) (Amount: 70, 000 RMB)
 - 2012-2016, **Scientific Research Foundation for Returned Overseas Chinese Scholars of the Ministry of Education, China**. (Amount: 15, 000 RMB)
 
 
