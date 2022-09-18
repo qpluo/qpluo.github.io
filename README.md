@@ -14,7 +14,6 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 
 ---
 ## **Selected research outputs** in English
-(SSCI = Social Sciences Citation Index; A&HCI = Arts & Humanities Citation Index)
 1. A kind-based account of adjectival modification in Mandarin Chinese. **Linguistics and Philosophy**. (R&R)
 2. Degree kinds, difference, and the semantics of Differential Verbal Comparatives in Mandarin Chinese. **Journal of Semantics**. (with minor revision)
 3. 2023, Degrees and grammar: An East Asian perspective. **Language and Linguistics** 24(1):5-35. (Co-authored with Zhiguo Xie and Xiao Li; 1/3) (SSCI and A&HCI) [Download](https://benjamins.com/catalog/lali.00124.luo)
