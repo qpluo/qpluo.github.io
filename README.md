@@ -36,7 +36,7 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 
 ## **Domestic publications in Chinese**
 (CSSCI = China Social Sciences Citation Index)
-1. 2022, Liangji xiushiyu de yuyong weidu 量级修饰语的语用维度 [Pragmatic aspects of scalar modifiers]. **Shijie Hanyu Jiaoxue 世界汉语教学** [Chinese Teaching in the World] (4). (CSSCI)
+1. 2022, Liangji xiushiyu de yuyong weidu 量级修饰语的语用维度 [Pragmatic aspects of scalar modifiers]. **Shijie Hanyu Jiaoxue 世界汉语教学** [Chinese Teaching in the World] (4). (CSSCI) [CNKI Link] (https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=SJHY202204011&uniplatform=NZKPT&v=P8E7jlKlrBG56xn6Sc3fVBeU0aNyvt_i7CRtdJTHxlxqm4DIZvSQdBz9OlGvWZXh)
 2. 2022, Pubian gongneng jizhu yu hanyu juzi de zizuxing 普遍功能脊柱与汉语句子的自足性 [The Universal Functional Spine and Sentential Completeness Effects in Chinese]. **Waiyu Jiaoxue yu Yanjiu 外语教学与研究** [Foreign Language Teaching and Research] 5. (CSSCI)
 3. 2022, Zhuangming xiushi jiegou de luoji wenti 专名修饰结构的逻辑问题 [On the logical problem of modified proper names]. **Hunan Keji Daxue Xuebao 湖南科技大学学报（社会科学版）** [Journal of Hunan University of Science and Technology] 2: 35-41. (CSSCI)
 4. 2021, Yinghanyu dengjixing xianxiang de yuyi yanjiu 英汉语等级性现象的语义研究[The semantics of gradability in English and Chinese]. **Jiefangjun Waiguoyu Xueyuan Xuebao 解放军外国语学院学报** [Journal of PLA University of Foreign Languages] 6. (CSSCI)
