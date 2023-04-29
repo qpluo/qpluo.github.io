@@ -66,7 +66,7 @@ Mandarin adverb hai]. **Yuyan Kexue 语言科学** [Language Sciences] (6): 592-
 
 ---
 ## **Selected presentations at refereed conferences**
-1. 2023, Semantic incorporation in Mandarin. Paper accepted as an oral presentation at **West Coast Conference in Formal Linguistics 41 (WCCFL 41)**. May 5-7, 2023. University of California at Santa Cruz.
+1. 2023, Semantic incorporation and non-canonical object constructions in Chinese. Oral presentation at **West Coast Conference in Formal Linguistics 41 (WCCFL 41)**. May 5-7, 2023. University of California at Santa Cruz.
 2. 2022, Bare nouns, incorporation, and event kinds in Mandarin Chinese. Paper presented at **the 96th Annual Meeting of Linguistic Society of America**. Jan. 5-10, 2022. Washington D. C.
 3. 2020, Characterizing the simplex vs. complex adjectives in Mandarin Chinese. Paper presented at **Sinn und Bedeutung 25 (SuB 25)**. September 7-10, 2020. University College London and Queen Mary University of London.
 4. 2020, The architecture of the perfective viewpoint aspect in Mandarin. Paper presented at **the 56th Annual Meeting of Chicago Linguistic Society 56 (CLS 56)**. April 26-29, 2020. The University of Chicago. (Co-authored with Anqi Zhang, 1/2)
