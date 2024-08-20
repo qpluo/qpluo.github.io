@@ -38,7 +38,7 @@ Hi, I am Qiongpeng Luo (first/given name: Qiongpeng; last/family name: Luo; in C
 
 ## **Domestic publications in Chinese**
 (CSSCI = China Social Sciences Citation Index)
-1. 2024, Yuyi ronghe yu hanyu feidianxing binyu jiegou 语义融合与汉语非典型宾语结构 [Semantic incorporation and non-canonical object constructions in Chinese]. **Zhongguo Yuwen 中国语文** [Studies of Chinese Language] (3):301-316. (CSSCI)
+1. 2024, Yuyi ronghe yu hanyu feidianxing binyu jiegou 语义融合与汉语非典型宾语结构 [Semantic incorporation and non-canonical object constructions in Chinese]. **Zhongguo Yuwen 中国语文** [Studies of Chinese Language] (3):301-316. (CSSCI) (co-aurhored with R. Guo, 1/2)
 2. 2024, Mingci ronghe yu fuza weici de xingcheng 名词融合与复杂谓词的形成 [Noun incorporation and the formation of complex predicates in Chinese]. **Hanyu Xuexi 汉语学习** [Chinese Language Learning] (1): 33-42. (CSSCI)
 3. 2024, Kua yuyan shiyu xia mingci ronghe yanjiu de xianzhuang yu qianzhan 跨语言视阈下名词融合研究的现状与前瞻 [Noun incorporation in a cross-linguistic perspective]. **Waiyu Jiaoxue yu Yanjiu 外语教学与研究** [Foreign Language Teaching and Research] (2): 213-225. (CSSCI)
 4. 2023, Zhuangtai bianhua yu liangji bianhua 状态变化与量级变化 [Change of states and scalar change]. **Dangdai Yuyanxue 当代语言学** [Contemporary Linguistics] (6):848-865. (CSSCI)
